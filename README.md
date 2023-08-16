@@ -3,10 +3,11 @@
 
 - 🌱 I’m currently learning **Next Js,Redux,Typescript**
 
-- 📫 How to reach me **zihad.shah10@gmail.com**
 - 👨‍💻 All of my projects are available at https://zihad-portfolio.web.app/
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t2D-bd_QyW0ldQ_WY5VYDrPjoS0eOw9w/view?usp=sharing](https://drive.google.com/file/d/1t2D-bd_QyW0ldQ_WY5VYDrPjoS0eOw9w/view?usp=sharing)
+- 📫 How to reach me **zihad.shah10@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mnXvxPqi6zUMUHrockO4Re11HfV5M-Kz/view](https://drive.google.com/file/d/1mnXvxPqi6zUMUHrockO4Re11HfV5M-Kz/view)
 - 🌿 Fun fact **I love to Travel and Eating**.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
